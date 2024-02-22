@@ -7,7 +7,7 @@ type Font = {
     subsets: string[];
 };
 
-export const lusitana : Font = {
+export const lusitana = {
     weight: ['400', '700'],
     subsets: ['latin']
 }
